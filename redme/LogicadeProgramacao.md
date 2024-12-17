@@ -9,11 +9,11 @@ Um algoritmo é uma sequência bem definida de passos que leva à solução de u
 ### Fluxo de Controle
 O fluxo de controle determina como as instruções são executadas. As principais estruturas são:
 
-- **Sequência**: As instruções são executadas uma após a outra, na ordem em que aparecem.
+- `Sequência:` As instruções são executadas uma após a outra, na ordem em que aparecem.
   
-- **Seleção**: Permite que o programa tome decisões. Por exemplo, a estrutura `if` avalia uma condição e executa um bloco de código se a condição for verdadeira. Se não, pode executar outro bloco com `else`.
+- `Seleção:` Permite que o programa tome decisões. Por exemplo, a estrutura `if` avalia uma condição e executa um bloco de código se a condição for verdadeira. Se não, pode executar outro bloco com `else`.
 
-- **Repetição**: Estruturas que permitem executar um bloco de código várias vezes. Por exemplo, um laço `for` pode iterar sobre uma lista de números, enquanto um `while` continua até que uma condição específica não seja mais verdadeira.
+- `Repetição:` Estruturas que permitem executar um bloco de código várias vezes. Por exemplo, um laço `for` pode iterar sobre uma lista de números, enquanto um `while` continua até que uma condição específica não seja mais verdadeira.
 
 ## 2. Estruturas de Dados
 
