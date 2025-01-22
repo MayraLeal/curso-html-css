@@ -87,6 +87,8 @@ Os operadores são usados para realizar operações em variáveis e valores. Os 
 - **Comparação**: `==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=`
 - **Lógicos**: `&&`, `||`, `!`
 
+obs.: Para saber mas [LogicadeProgramacao.md](LogicadeProgramacao.md)
+
 ### 4. **Estruturas de Controle**
 As estruturas de controle permitem que você execute diferentes blocos de código com base em condições.
 
